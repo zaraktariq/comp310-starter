@@ -1,15 +1,3 @@
-add_executable(\ncalculator\ncalculator.c)
 add_executable(
-calculator
-calculator.c)
-add_executable(\ncalculator\ncalculator.c)
-add_executable(
-calculator
-calculator.c)
-add_executable(
-calculator
-calculator.c)
-add_executable(
-calculator
-calculator.c)
-add_executable(\ncalculator\ncalculator.c)
+    calculator
+    calculator.c)
