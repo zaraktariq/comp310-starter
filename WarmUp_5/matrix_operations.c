@@ -68,4 +68,5 @@ int main(int argc, char **argv) {
     printf("Matrix Multiplication:\n");
     printMatrix(product);
 
+    return 0;
 }
