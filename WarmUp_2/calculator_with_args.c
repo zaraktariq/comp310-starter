@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main (int argc, char *argv[]) {
+int main (int argc, char *argv) {
     if(argc < 3) {
         printf("this program requires 2 inputs\n");
         return EXIT_FAILURE;
