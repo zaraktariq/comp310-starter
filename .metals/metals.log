@@ -11,3 +11,6 @@ INFO: Unsupported notification method: $/setTrace
 2024.01.26 02:46:49 INFO  Started: Metals version 1.2.0 in folders '/workspace/comp310-starter' for client Visual Studio Code 1.85.2.
 2024.01.26 02:46:53 WARN  Build server is not auto-connectable.
 2024.01.26 02:46:53 WARN  no build tool detected in workspace '/workspace/comp310-starter'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2024.01.26 03:02:22 INFO  Shutting down server
+2024.01.26 03:02:22 INFO  shutting down Metals
+2024.01.26 03:02:22 INFO  Exiting server
